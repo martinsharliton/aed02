@@ -1,0 +1,214 @@
+# depslib dependency file v1.0
+1681431178 source:c:\users\harliton\documents\aed2\listaaed2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"questao01.h"
+	"questao02.h"
+	"questao03.h"
+	"questao04.h"
+	"questao05.h"
+	"questao06.h"
+	"questao07.h"
+	"questao08.h"
+	"questao09.h"
+	"questao10.h"
+	"questao11.h"
+	"questao12.h"
+	"questao13.h"
+	"questao14.h"
+	"questao15.h"
+	"questao16.h"
+	"questao17.h"
+	"questao18.h"
+	"questao19.h"
+	"questao20.h"
+	"questao21.h"
+	"questao22.h"
+	"questao23.h"
+	"questao24.h"
+
+1681254826 c:\users\harliton\documents\aed2\listaaed2\questao01.h
+
+1681257262 source:c:\users\harliton\documents\aed2\listaaed2\questao01.c
+	<stdio.h>
+	<stdlib.h>
+	"questao01.h"
+
+1681255943 c:\users\harliton\documents\aed2\listaaed2\questao02.h
+
+1681257882 source:c:\users\harliton\documents\aed2\listaaed2\questao02.c
+	<stdio.h>
+	<stdlib.h>
+	"questao02.h"
+
+1681258530 source:c:\users\harliton\documents\aed2\listaaed2\questao03.c
+	<stdio.h>
+	<stdlib.h>
+	"questao03.h"
+
+1681258039 c:\users\harliton\documents\aed2\listaaed2\questao03.h
+
+1681258613 c:\users\harliton\documents\aed2\listaaed2\questao04.h
+
+1681259147 source:c:\users\harliton\documents\aed2\listaaed2\questao04.c
+	<stdio.h>
+	<stdlib.h>
+	"questao04.h"
+
+1681260293 c:\users\harliton\documents\aed2\listaaed2\questao05.h
+
+1681261130 c:\users\harliton\documents\aed2\listaaed2\questao06.h
+
+1681261524 source:c:\users\harliton\documents\aed2\listaaed2\questao05.c
+	<stdio.h>
+	<stdlib.h>
+	"questao05.h"
+
+1681261961 source:c:\users\harliton\documents\aed2\listaaed2\questao06.c
+	<stdio.h>
+	<stdlib.h>
+	"questao06.h"
+
+1681263687 source:c:\users\harliton\documents\aed2\listaaed2\questao07.c
+	<stdio.h>
+	<stdlib.h>
+	"questao07.h"
+
+1681262464 c:\users\harliton\documents\aed2\listaaed2\questao07.h
+
+1681426061 source:c:\users\harliton\documents\aed2\listaaed2\questao08.c
+	<stdio.h>
+	<stdlib.h>
+	"questao08.h"
+
+1681263816 c:\users\harliton\documents\aed2\listaaed2\questao08.h
+
+1681264168 c:\users\harliton\documents\aed2\listaaed2\questao09.h
+
+1681426010 source:c:\users\harliton\documents\aed2\listaaed2\questao09.c
+	<stdio.h>
+	<stdlib.h>
+	"questao09.h"
+
+1681431166 source:c:\users\harliton\documents\aed2\listaaed2\questao10.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"questao10.h"
+
+1681264681 c:\users\harliton\documents\aed2\listaaed2\questao10.h
+
+1681329589 c:\users\harliton\documents\aed2\listaaed2\questao11.h
+
+1681330991 source:c:\users\harliton\documents\aed2\listaaed2\questao11.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"questao11.h"
+
+1681331272 c:\users\harliton\documents\aed2\listaaed2\questao12.h
+
+1681332148 source:c:\users\harliton\documents\aed2\listaaed2\questao12.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"questao12.h"
+
+1681332640 c:\users\harliton\documents\aed2\listaaed2\questao13.h
+
+1681333010 source:c:\users\harliton\documents\aed2\listaaed2\questao13.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"questao13.h"
+
+1681333179 c:\users\harliton\documents\aed2\listaaed2\questao14.h
+
+1681333410 source:c:\users\harliton\documents\aed2\listaaed2\questao14.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"questao14.h"
+
+1681334186 source:c:\users\harliton\documents\aed2\listaaed2\questao15.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"questao15.h"
+
+1681333497 c:\users\harliton\documents\aed2\listaaed2\questao15.h
+
+1681334250 c:\users\harliton\documents\aed2\listaaed2\questao16.h
+
+1681335224 source:c:\users\harliton\documents\aed2\listaaed2\questao16.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"questao16.h"
+
+1681335327 c:\users\harliton\documents\aed2\listaaed2\questao17.h
+
+1681335966 source:c:\users\harliton\documents\aed2\listaaed2\questao17.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"questao17.h"
+
+1681340915 c:\users\harliton\documents\aed2\listaaed2\questao18.h
+
+1681342851 source:c:\users\harliton\documents\aed2\listaaed2\questao18.c
+	<stdio.h>
+	<stdlib.h>
+	"questao18.h"
+
+1681344669 source:c:\users\harliton\documents\aed2\listaaed2\questao19.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"questao19.h"
+
+1681342290 c:\users\harliton\documents\aed2\listaaed2\questao19.h
+
+1681344775 c:\users\harliton\documents\aed2\listaaed2\questao20.h
+
+1681346090 source:c:\users\harliton\documents\aed2\listaaed2\questao20.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"questao20.h"
+
+1681346559 c:\users\harliton\documents\aed2\listaaed2\questao21.h
+
+1681347534 source:c:\users\harliton\documents\aed2\listaaed2\questao21.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"questao21.h"
+
+1681351878 c:\users\harliton\documents\aed2\listaaed2\questao22.h
+
+1681348775 c:\users\harliton\documents\aed2\listaaed2\questao23.h
+
+1681348773 source:c:\users\harliton\documents\aed2\listaaed2\questa22.c
+	<stdio.h>
+	<stdlib.h>
+	"questao22.h"
+
+1681424609 source:c:\users\harliton\documents\aed2\listaaed2\questao23.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"questao23.h"
+
+1681424947 source:c:\users\harliton\documents\aed2\listaaed2\questao22.c
+	<stdio.h>
+	<stdlib.h>
+	"questao22.h"
+
+1681353690 c:\users\harliton\documents\aed2\listaaed2\questao24.h
+
+1681424515 source:c:\users\harliton\documents\aed2\listaaed2\questao24.c
+	<stdio.h>
+	<stdlib.h>
+	"questao24.h"
+
