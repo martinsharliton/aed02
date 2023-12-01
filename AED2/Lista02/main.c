@@ -2,6 +2,8 @@
 #include <stdlib.h>
 #define COMPRIMENTO 10
 
+// ALTEREI = 30/11/2023
+
 void bubbleSort(int vetor[], int tam){
     printf("\n\n---- BUBBLE SORT ----");
     int i, j, aux;
@@ -165,4 +167,3 @@ int main() {
 
     return 0;
 }
-
